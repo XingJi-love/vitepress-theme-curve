@@ -3,27 +3,27 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "XINGJI",
     // 站点描述
     description: "Hello World",
     // 站点logo
-    logo: "/images/logo/logo.webp",
+    logo: "https://i.p-i.vip/47/20240920-66ed7b168c38c.jpg",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://blog.xingji.fun",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
-      cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      name: "XINGJI",
+      cover: "https://i.p-i.vip/47/20240920-66ed7b168c38c.jpg",
+      email: "3326502459@qq.com",
+      link: "https://blog.xingji.fun",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "萌ICP备20242030号",
   // 建站日期
-  since: "2020-07-28",
+  since: "2024-08-07",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog.imsyy.top/rss.xml",
+          href: "https://blog.xingji.fun/rss.xml",
         },
       ],
       // 预载 CDN
@@ -383,9 +383,9 @@ export const themeConfig = {
   rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
+    wechat: "https://i.p-i.vip/47/20240926-66f56532a84be.png",
     // 支付宝二维码
-    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
+    alipay: "https://i.p-i.vip/47/20240926-66f565413b5d4.png",
   },
   // 图片灯箱
   fancybox: {
