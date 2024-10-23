@@ -7,7 +7,7 @@ export const themeConfig = {
     // 站点描述
     description: "Hello World",
     // 站点logo
-    logo: "https://i.p-i.vip/47/20240920-66ed7b168c38c.jpg",
+    logo: "https://i.p-i.vip/47/20241024-67192acae3bb8.png",
     // 站点地址
     site: "https://blog.xingji.fun",
     // 语言
@@ -15,7 +15,7 @@ export const themeConfig = {
     // 作者
     author: {
       name: "XINGJI",
-      cover: "https://i.p-i.vip/47/20240920-66ed7b168c38c.jpg",
+      cover: "https://i.p-i.vip/47/20241024-67192acae3bb8.png",
       email: "3326502459@qq.com",
       link: "https://blog.xingji.fun",
     },
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog.xingji.fun/rss.xml",
+          href: "https://blog.imsyy.top/rss.xml",
         },
       ],
       // 预载 CDN
