@@ -362,11 +362,11 @@ export const themeConfig = {
   // 音乐播放器
   // https://github.com/imsyy/Meting-API
   music: {
-    enable: false,
+    enable: true,
     // url
-    url: "https://api-meting.example.com",
+    url: "https://music.xingji.fun",
     // id
-    id: 9379831714,
+    id: 8744445147,
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
@@ -375,9 +375,9 @@ export const themeConfig = {
   // 搜索
   // https://www.algolia.com/
   search: {
-    enable: false,
-    appId: "",
-    apiKey: "",
+    enable: true,
+    appId: "ZK4LLDH7RR",
+    apiKey: "7df96dc24b20fd7b6e093c6c6c78a1fb",
   },
   // 打赏
   rewardData: {
