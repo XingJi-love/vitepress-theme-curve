@@ -364,13 +364,13 @@ export const themeConfig = {
   music: {
     enable: true,
     // url
-    url: "https://music.xingji.fun/",
+    url: "https://music.xingji.fun/api",
     // id
     id: "8744445147",
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
-    type: "playlist",
+    type: "song",
   },
   // 搜索
   // https://www.algolia.com/
