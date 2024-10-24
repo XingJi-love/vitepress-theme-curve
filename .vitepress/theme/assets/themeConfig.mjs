@@ -364,7 +364,7 @@ export const themeConfig = {
   music: {
     enable: true,
     // url
-    url: "https://music.xingji.fun/api",
+    url: "https://music.xingji.fun/",
     // id
     id: "8744445147",
     // netease / tencent / kugou
