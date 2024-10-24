@@ -366,7 +366,7 @@ export const themeConfig = {
     // url
     url: "https://music.xingji.fun/api",
     // id
-    id: 8744445147,
+    id: "8744445147",
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
@@ -376,8 +376,8 @@ export const themeConfig = {
   // https://www.algolia.com/
   search: {
     enable: true,
-    appId: "FSL7JMTULB",
-    apiKey: "e14f8ca3b3f120e638257db2f0135174",
+    appId: "",
+    apiKey: "",
   },
   // 打赏
   rewardData: {
