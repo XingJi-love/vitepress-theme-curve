@@ -370,7 +370,7 @@ export const themeConfig = {
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
-    type: "song",
+    type: "playlist",
   },
   // 搜索
   // https://www.algolia.com/
