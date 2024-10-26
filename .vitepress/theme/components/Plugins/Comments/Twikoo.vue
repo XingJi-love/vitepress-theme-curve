@@ -5,7 +5,7 @@
 <script setup>
 import { jumpRedirect } from "@/utils/commonTools";
 import initComments from "@/utils/initComments";
-import './style/twikoo.css';
+import './twikoo.css';
 
 const props = defineProps({
   // 填充评论区
