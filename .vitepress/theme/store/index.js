@@ -1,5 +1,4 @@
 import { defineStore } from "pinia";
-import './style/twikoo.css';
 
 export const mainStore = defineStore("main", {
   state: () => {
