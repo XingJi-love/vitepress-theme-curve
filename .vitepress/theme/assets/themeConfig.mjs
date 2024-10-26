@@ -28,7 +28,6 @@ export const themeConfig = {
   postSize: 8,
   // inject
   inject: {
-    import './style/twikoo.css';
     // 头部
     // https://vitepress.dev/zh/reference/site-config#head
     header: [
