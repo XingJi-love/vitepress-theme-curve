@@ -1,4 +1,5 @@
 import { defineStore } from "pinia";
+import './style/index.css';
 
 export const mainStore = defineStore("main", {
   state: () => {
