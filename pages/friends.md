@@ -1,7 +1,7 @@
 ---
 title: 友圈鱼塘
 aside: false
-comment: false
+comment: true
 ---
 
 # 友圈鱼塘
