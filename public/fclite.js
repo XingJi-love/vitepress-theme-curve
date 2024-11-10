@@ -3,7 +3,7 @@ function initialize_fc_lite() {
     // 用户配置
     // 设置默认配置
     UserConfig = {
-        private_api_url: UserConfig?.private_api_url || "https://friend.xingji.fun/", 
+        private_api_url: UserConfig?.private_api_url || " ", 
         page_turning_number: UserConfig?.page_turning_number || 20, // 默认20篇
         error_img: UserConfig?.error_img || "https://cdn.bsgun.cn/Hexo-static/img/error-404.avif" // 默认头像
     };
