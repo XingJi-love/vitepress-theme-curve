@@ -46,7 +46,7 @@ onMounted(() => {
         window.UserConfig = {
             private_api_url: 'https://friend.xingji.fun/',
             page_turning_number: 20,
-            error_img: 'https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite@latest/static/favicon.ico'
+            error_img: 'https://cdn.bsgun.cn/Hexo-static/img/error-404.avif'
         }
     }
 
