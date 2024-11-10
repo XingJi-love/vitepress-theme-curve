@@ -3,9 +3,9 @@ function initialize_fc_lite() {
     // 用户配置
     // 设置默认配置
     UserConfig = {
-        private_api_url: UserConfig?.private_api_url || "", 
+        private_api_url: UserConfig?.private_api_url || "https://friend.xingji.fun/", 
         page_turning_number: UserConfig?.page_turning_number || 20, // 默认20篇
-        error_img: UserConfig?.error_img || "https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite@latest/static/favicon.ico" // 默认头像
+        error_img: UserConfig?.error_img || "https://cdn.bsgun.cn/Hexo-static/img/error-404.avif" // 默认头像
     };
 
     const root = document.getElementById('friend-circle-lite-root');
