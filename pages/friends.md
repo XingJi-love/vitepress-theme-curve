@@ -3,9 +3,6 @@ title: 友圈鱼塘
 aside: false
 comment: true
 ---
-
-# 友圈鱼塘  
-  
 <div class="friend-circle-container">  
   <div class="root-container">  
       <div id="friend-circle-lite-root"></div>  
